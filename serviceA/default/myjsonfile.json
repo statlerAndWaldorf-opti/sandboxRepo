@@ -1,0 +1,14 @@
+[
+  {
+    "configVal": 10
+  },
+  {
+    "defaultThatOnlyAppearsHere": "3242324t3rbg467y5tq4gerg4r"
+  },
+  {
+    "field": {
+      "key1": "val1",
+      "key2": "val2"
+    }
+  }
+]

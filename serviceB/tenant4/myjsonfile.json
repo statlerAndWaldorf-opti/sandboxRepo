@@ -1,0 +1,11 @@
+[
+  {
+    "configVal": 3
+  },
+  {
+    "field": {
+      "key1": "val1",
+      "key2": "val2"
+    }
+  }
+]
