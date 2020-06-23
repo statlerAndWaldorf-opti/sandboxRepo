@@ -1,4 +1,9 @@
 {
+  "key1": "val1",
+  "myObj": {
+    "subkeyA": 3,
+    "subkeyB": "subValB"
+  },
   "configVal": 3,
   "field": {
     "key1": "val1",
